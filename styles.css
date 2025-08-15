@@ -1,4 +1,12 @@
 body {
     color: red;
     background: cyan;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px gold;
+    padding: 20px;
+    font-size: 30px;
+    color: gold;
 }
